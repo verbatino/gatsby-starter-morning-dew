@@ -3,7 +3,7 @@
 
 # gatsby-starter-morning-dew
 
-Gatsby starter for creating a new blog!
+Gatsby starter for creating a new blogg!
 
 [Demo website.](https://maxpou.github.io/gatsby-starter-morning-dew/)
 
